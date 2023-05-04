@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://hunge-captain-backend.sophoni.repl.co) here!!
 
 ## How to Install
 
-1. Git Clone 
+1. Git Clone https://github.com/Sophoni/Hunger-Captain.git
 
 ```
 git clone 
